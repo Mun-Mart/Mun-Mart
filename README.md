@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a **third-year Computer Science student** with
 
 ## 🚀 About Me
 
-[![Munraj's Github Stats](https://github-readme-stats.vercel.app/api?username=Mun-Mart&bg_color=1c1c1c&text_color=ffffff&title_color=ffffff&show_icons=true)](https://github.com/Mun-Mart/github-readme-stats)
+[![Munraj's Github Stats](https://github-readme-stats.vercel.app/api?username=Mun-Mart&bg_color=1c1c1c&text_color=ffffff&title_color=ffffff&show_icons=true)]
 
 - 💻 **Programming Languages**:
   
