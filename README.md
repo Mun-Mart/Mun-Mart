@@ -23,7 +23,6 @@ Welcome to my GitHub profile! I'm a **third-year Computer Science student** with
   - **Testing**: Unit Testing, PyTest
 
 - 📚 **Interests**: Meaningful **Software Development**, diving deep into **Data Science**, and of course **Automation**
-  - ☕ Always fueled by a good cup of coffee.
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/munraj-khunkhun)
