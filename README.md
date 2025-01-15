@@ -13,6 +13,12 @@ Welcome to my GitHub profile! I'm a **third-year Computer Science student** with
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+  ![VBA](https://img.shields.io/badge/VBA-2746B2?style=for-the-badge&logo=visualbasic&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Assembly](https://img.shields.io/badge/Assembly-6E4B3A?style=for-the-badge&logo=assembly&logoColor=white)
+
 
 - 🔧 **Skills**:
   - **Data Analysis & Manipulation**: Pandas, NumPy, Excel, SQL  
